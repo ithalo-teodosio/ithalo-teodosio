@@ -1,7 +1,7 @@
 <h1 align="center">Olá, mundo! | Hello, world!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00cfff&size=30&center=true&vCenter=true&width=500&lines=Ithalo+Teodósio+-+Desenvolvedor+de+Sistemas;Systems+Developer+-+Java+%7C+Python+%7C+SQL" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00cfff&size=16&center=true&vCenter=true&width=500&lines=Ithalo+Teodósio+-+Desenvolvedor+de+Sistemas;Systems+Developer+-+Java+%7C+Python+%7C+SQL" />
 </p>
 
 ---
