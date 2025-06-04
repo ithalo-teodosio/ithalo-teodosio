@@ -88,6 +88,8 @@
 
 ### ✨ Recrutadores | Recruiters
 
-Também tenho interesse em vagas de estágio com **front-end**!  
-Even though my current focus is on backend, I’m also open to **frontend internship opportunities**.  
+Também tenho interesse em vagas de estágio com **front-end**!
 Meu objetivo é crescer como desenvolvedor **full stack** em projetos desafiadores e criativos.
+
+Even though my current focus is on backend, I’m also open to **frontend internship opportunities**.  
+
