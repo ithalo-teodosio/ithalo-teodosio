@@ -6,7 +6,7 @@
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Backend com Java ☕ <br>
-  Explorando Front-end e apaixonado por aprender 🚀
+  Explorando Front-end, Python e Ciência de Dados com IA e Machine Learning 🚀
 </p>
 
 ---
@@ -16,6 +16,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas.  
 💼 Atualmente focado em desenvolvimento back-end com Java e JPA.  
 🎯 Também tenho grande interesse em front-end com HTML, CSS e JavaScript.  
+🤖 Já desenvolvi projetos com Python, análise de dados, inteligência artificial e notebooks Jupyter.  
 📚 Estudando constantemente para evoluir como desenvolvedor full stack.  
 🌱 Aberto a estágios e oportunidades de aprendizado nas áreas de front-end e back-end.
 
@@ -39,6 +40,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Python e Ciência de Dados:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -78,6 +87,7 @@ Mesmo com maior foco atual em back-end, estou estudando front-end e **aberto a o
 🎓 Student of Systems Analysis and Development.  
 💼 Currently focused on Java and backend technologies.  
 🌱 Also interested in front-end with HTML, CSS and JavaScript.  
+🤖 Developed projects using Python, Jupyter, AI and data analysis.  
 📚 Constantly studying to become a full stack developer.  
 🤝 Open to internships and learning opportunities in both backend and frontend development.
 
