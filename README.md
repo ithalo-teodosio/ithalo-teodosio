@@ -87,7 +87,6 @@ Mesmo com maior foco atual em back-end, estou estudando front-end e **aberto a o
   <img src="https://raw.githubusercontent.com/ithalo-teodosio/ithalo-teodosio/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-
 ---
 
 ### 🧠 Sobre mim
