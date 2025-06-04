@@ -90,9 +90,3 @@ Mesmo com maior foco atual em back-end, estou estudando front-end e **aberto a o
 🤖 Developed projects using Python, Jupyter, AI and data analysis.  
 📚 Constantly studying to become a full stack developer.  
 🤝 Open to internships and learning opportunities in both backend and frontend development.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ithalo-teodosio/ithalo-teodosio/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
