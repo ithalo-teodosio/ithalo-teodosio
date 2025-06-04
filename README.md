@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Ithalo Teodósio</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation" />
+  <img src="https://i.imgur.com/2cPbmLD.png" alt="Banner Desenvolvedor" width="100%">
 </p>
 
 <p align="center">
