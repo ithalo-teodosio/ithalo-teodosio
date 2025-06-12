@@ -1,35 +1,25 @@
 name: Atualizar lista de projetos
 
 on:
-  schedule:
-    - cron: '0 6 * * *'  # Executa todo dia às 03:00 da manhã (horário Brasil)
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0'  # roda 1x por semana
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  update-projects:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Clonar repositório
-      uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
 
-    - name: Gerar lista de repositórios automaticamente
-      uses: marketplacerepo/github-profile-readme-generator@main
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        USERNAME: ithalo-teodosio
-        CUSTOM_PROJECTS_SECTION_TITLE: 🚀 Meus Projetos
-        MAX_REPOS: 8
-        SORT_BY: updated
-        IGNORE_FORKS: true
-
-    - name: Commit e push caso tenha alterações
-      run: |
-        git config user.name github-actions
-        git config user.email github-actions@github.com
-        git add README.md
-        git commit -m "chore: atualização automática da lista de projetos" || exit 0
-        git push
+      - name: Atualiza lista de projetos
+        uses: anmol098/waka-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_PROJECTS: "True"
+          PROJECTS_LIMIT: 8
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROFILE_VIEWS: "False"
