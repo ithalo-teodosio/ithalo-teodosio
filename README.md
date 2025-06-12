@@ -63,7 +63,8 @@
 
 ### 🚀 Meus Projetos
 
-
+<!--START_SECTION:projects-->
+<!--END_SECTION:projects-->
 
 ---
 
