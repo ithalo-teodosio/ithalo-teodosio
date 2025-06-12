@@ -22,7 +22,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         USERNAME: ithalo-teodosio
         CUSTOM_PROJECTS_SECTION_TITLE: 🚀 Meus Projetos
-        MAX_REPOS: 10
+        MAX_REPOS: 8
         SORT_BY: updated
         IGNORE_FORKS: true
 
