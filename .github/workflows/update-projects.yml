@@ -5,6 +5,9 @@ on:
     - cron: '0 6 * * *'  # Executa todo dia às 03:00 da manhã (horário Brasil)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
