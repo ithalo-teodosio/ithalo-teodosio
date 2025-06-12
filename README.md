@@ -61,10 +61,12 @@
 
 ---
 
-### 🚀 Meus Projetos
+### 🚀 Projetos em destaque | Featured Projects
 
-<!--START_SECTION:projects-->
-<!--END_SECTION:projects-->
+- [SupermercadoProject_02](https://github.com/ithalo-teodosio/supermercadoProject_02): Sistema de gerenciamento de supermercado em Java com JPA, Hibernate, Lombok e HSQLDB (persistência em memória), com DAO genérico, serviço de carrinho, cadastro de clientes e produtos, estrutura modular e código otimizado.
+- [pratica_ML](https://github.com/ithalo-teodosio/pratica_ML): Projetos de prática em Machine Learning com Python, Scikit-learn, Pandas e modelos supervisionados.
+- [Projeto de Estudo: Java + JPA + Hibernate + Log4j2](https://github.com/ithalo-teodosio/java-jpa-study-log4j): Projeto simples em Java para fins de estudo, utilizando JPA, Hibernate, banco HSQLDB em memória e logs estruturados com Log4j2.
+- [Conexao Java/MySQL](https://github.com/ithalo-teodosio/ConexaoJavaMySQL): Projeto de estudo demonstrando a conexão de aplicações Java com o banco de dados MySQL utilizando JDBC, com operações básicas de inserção, consulta, atualização e remoção de dados. 
 
 ---
 
@@ -95,7 +97,7 @@
 
 ### ✨ Recrutadores | Recruiters
 
-Também tenho interesse em vagas de estágio com **front-end**!
+Também tenho interesse em vagas de estágio com **front-end**!  
 Meu objetivo é crescer como desenvolvedor **full stack** em projetos desafiadores e criativos.
 
-Even though my current focus is on backend, I’m also open to **frontend internship opportunities**.
+Even though my current focus is on backend, I’m also open to **frontend internship opportunities**.  
